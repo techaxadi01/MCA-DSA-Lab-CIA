@@ -1,9 +1,9 @@
 cd /mnt/e/"9. Projects"/"0. GitHub"/"MCA DSA Lab + CIA"
 
 
-gcc -g -o program 2647203_LE1.c
+gcc -g -o {FILENAME} {FILENAME}.c
 
 
-valgrind --leak-check=full --show-leak-kinds=all ./program
+valgrind --leak-check=full --show-leak-kinds=all ./{FILENAME}
 
 
