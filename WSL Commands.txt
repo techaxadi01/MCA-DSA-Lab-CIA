@@ -1,4 +1,4 @@
-cd /mnt/e/"9. Projects"/"0. GitHub"/"MCA DSA Lab + CIA"
+cd /mnt/e/"9. Projects"/"0. GitHub"/"MCA DSA Lab + CIA"/"Practical"
 
 
 gcc -g -o {FILENAME} {FILENAME}.c
