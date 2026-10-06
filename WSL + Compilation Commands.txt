@@ -7,3 +7,9 @@ gcc -g -o {FILENAME} {FILENAME}.c
 valgrind --leak-check=full --show-leak-kinds=all ./{FILENAME}
 
 
+
+
+
+gcc 2647203_Lab3.c Module_2647203.c -o 2647203_Lab3
+
+.\2647203_Lab3
